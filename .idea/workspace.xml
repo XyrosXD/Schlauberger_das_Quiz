@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="320f9441-b0c5-4d22-9c66-052b10421713" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Schlauberger_das_Quiz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Answer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EasyQuestions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HardQuestions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MediumQuestions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Player.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Question.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Quiz.kt" afterDir="false" />
-    </list>
+    <list default="true" id="320f9441-b0c5-4d22-9c66-052b10421713" name="Changes" comment="Abschlussprojekt Grundkurs Kotlin&#10;Schlauberger das Quiz (Beta1)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675716569105</updated>
-      <workItem from="1675716570160" duration="9358000" />
+      <workItem from="1675716570160" duration="10035000" />
     </task>
+    <task id="LOCAL-00001" summary="Abschlussprojekt Grundkurs Kotlin&#10;Schlauberger das Quiz (Beta1)">
+      <created>1675727171571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675727171571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Abschlussprojekt Grundkurs Kotlin&#10;Schlauberger das Quiz (Beta1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abschlussprojekt Grundkurs Kotlin&#10;Schlauberger das Quiz (Beta1)" />
   </component>
 </project>
