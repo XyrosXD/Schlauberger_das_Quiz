@@ -1,6 +1,6 @@
-fun main(args: Array<String>) {
+val players = mutableListOf<Player>()
 
-    val players = mutableListOf<Player>()
+fun main(args: Array<String>) {
 
     println("Willkommen zum #-Schlauberger-# Quiz!")
     println("Wählen Sie die Anzahl der Spieler aus (1-4)")
@@ -19,19 +19,19 @@ fun main(args: Array<String>) {
     val difficulty = readLine()!!.toInt()
     when (difficulty) {
         1 -> {
-            Quiz(EasyQuestions.questionsEasy.shuffled()).start()
             println("Ihr habt euch für die einfachen Fragen entschieden")
             println("Los gehts 🎉")
+            Quiz(EasyQuestions.questionsEasy.shuffled()).start()
         }
         2 -> {
-            Quiz(MediumQuestions.questionsMedium.shuffled()).start()
             println("Ihr habt euch für die mittelschweren Fragen entschieden")
             println("Los gehts 🎉")
+            Quiz(MediumQuestions.questionsMedium.shuffled()).start()
         }
         3 -> {
-            Quiz(HardQuestions.questionsHard.shuffled()).start()
             println("Ihr habt euch für die schweren Fragen entschieden")
             println("Los gehts 🎉")
+            Quiz(HardQuestions.questionsHard.shuffled()).start()
         }
         else -> {
             println("Die Eingabe war ungültig bitte versuche es noch einmal!!")
