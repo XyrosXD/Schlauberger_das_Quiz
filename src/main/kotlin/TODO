@@ -1,7 +1,5 @@
 // 1. Ein Spieler gegen den Quizmaster
 
-// 2. 2v2 möglichkeit
-
 // 3. Highscore
 
 // 4. Joker (2-3 Stück)
@@ -9,12 +7,3 @@
 // Chars als A B C D und 1 2 3 4 deklarieren
 
 // Farbe oder Grafik einbinden
-
-// Quiz-Kampf, nach jeder Frage einen kampf starten und eventuell Joker auffüllen bei Sieg
-
-//
-
-Nach:         println("Ergebnisse:")
-        for (player in players) {
-            println("$player: ${player.points} Fragen richtig beantwortet.") sollen die Spieler zu Kriegern mutieren erstelle dafür eine klasse Krieger sie haben 1000 lebenspunkte eine waffe die 100 angriff hat und haben eine rüstung die 100 verteidigung hat. wenn die player.points zusammen größer 5 sind kann die waffe kritischen schaden machen der 50% mehr schaden anrichtet. Dann taucht das fürchterliche quizmonster auf erstelle dafür eine Klasse Monster die, die atribute lebenspunkte, waffe und verteidigung der klasse Krieger erbt (eine Vergebung muss vorhanden sein). Das Monster hat 10000 lebenspunkte eine waffe die 20 schaden macht und eine rüstung die 20 verteidigung hat.  Nun startet der erbitterte kampf zwischen Monster und den Krieger bis einer stirbt.
-
